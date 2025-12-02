@@ -1,0 +1,52 @@
+{
+  "livros": [
+    {
+      "id": "413e",
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "ano": 1899,
+      "genero": "Romance",
+      "paginas": 208,
+      "capa": "https://m.media-amazon.com/images/I/416E0ngf0xL._SY445_SX342_ControlCacheEqualizer_.jpg",
+      "sinopse": "Em Dom Casmurro, o narrador Bento Santiago retoma a infância que passou na Rua de Matacavalos e conta a história do amor e das desventuras que viveu com Capitu, uma das personagens mais enigmáticas e intrigantes da literatura brasileira. Nas páginas deste romance, encontra-se a versão de um homem perturbado pelo ciúme, que revela aos poucos sua psicologia complexa e enreda o leitor em sua narrativa ambígua acerca do acontecimento ou não do adultério da mulher com olhos de ressaca, uma das maiores polêmicas da literatura brasileira.",
+      "avaliacao": 5,
+      "lido": true
+    },
+    {
+      "id": "2f29",
+      "titulo": "A Toca Das Raposas",
+      "autor": "Nora Sakavic",
+      "ano": 2013,
+      "genero": "Ficção",
+      "paginas": 327,
+      "capa": "https://m.media-amazon.com/images/I/41p7hj3BMWL._SY445_SX342_ControlCacheEqualizer_.jpg",
+      "sinopse": "Só o que Neil Josten quer é fugir de um passado sangrento que o assombra aonde quer que vá. Escondido em uma cidade pequena, o único escape que tem é jogar Exy, o violento e popular esporte que atrai multidões. Mas Neil parece não ter apagado os seus rastros tão bem quanto imagina já que foi abordado por ninguém menos do que o treinador das Raposas, a infame equipe da universidade Palmetto State.\n\nDiante da chance de treinar com Kevin Day, um dos mais renomados jogadores de Exy, Neil se vê diante de uma difícil decisão, porque Kevin, além de grande jogador, é também o fantasma de um passado que não pode de jeito nenhum alcançar Neil. E junto com Day vem o perigoso Andrew Minyard, um colega de equipe que parece desconhecer o significado da palavra limites.\n\nSem poder desperdiçar a oportunidade que o destino lhe trouxe, Neil se torna uma Raposa de Palmetto State, e seu futuro agora está nas mãos do Exy e das Raposas. A toca das raposas é o primeiro volume da viciante trilogia Tudo Pelo Jogo.",
+      "avaliacao": 5,
+      "lido": true
+    },
+    {
+      "id": "e203",
+      "titulo": "O Rei Corvo",
+      "autor": "Nora Sakavic",
+      "ano": 2014,
+      "genero": "Ficção",
+      "paginas": 415,
+      "capa": "https://m.media-amazon.com/images/I/41RZL79RWwL._SY445_SX342_ControlCacheEqualizer_.jpg",
+      "sinopse": "Após colocar tudo em jogo ao entrar para a Toca das Raposas, os problemas de Neil só pioram em O rei corvo. Agora, sem poder fugir de seu passado, o rapaz deposita todas as suas esperanças na problemática equipe. Além de ter que derrotar os destestáveis Corvos liderados por Riko, com quem o astro das Raposas, Kevin, tem uma relação no mínimo complicada, as Raposas precisam aprender a lidar com seus próprios demônios.\n\nQuando comportamento de Andrew, goleiro do time, se torna cada vez mais um empecilho dentro e fora das quadras, Neil talvez seja o único capaz de burlar a guarda do colega. Mas nenhum dos dois confia em nada nem em ninguém.\n\nNo intenso e emocionante segundo volume da trilogia Tudo Pelo Jogo, as Raposas podem acabar descobrindo ser uma grande família, que, mesmo não compartilhando laços sanguíneos, é feita de pessoas que escolheram se amar e se proteger. O time vai defender os seus integrantes a qualquer custo, e aqueles que os ameaçar podem até correr, mas não poderão fugir.",
+      "avaliacao": 5,
+      "lido": true
+    },
+    {
+      "id": "101d",
+      "titulo": "Os Homens do rei",
+      "autor": "Nora Sakavic",
+      "ano": 2015,
+      "genero": "Ficção",
+      "paginas": 508,
+      "capa": "https://m.media-amazon.com/images/I/41LwSa+i40L._PJku-sticker-v8%2CTopRight%2C0%2C-50_SY250_.jpg",
+      "sinopse": "Após os atordoantes acontecimentos de O rei corvo, as Raposas estão de volta à Palmetto State. O final da temporada de Exy também se aproxima e Neil Josten ainda tem muitas promessas a cumprir. As Raposas iniciaram a competição como azarões, mas descobriram que são um time de verdade, leal e unido, em que todos estão realmente dispostos a lutar uns pelos outros. Agora, eles têm motivos para continuar.\n\nE, apesar de o risco à sua vida ser mais real do que nunca, Neil agora tem pelo que viver: seus amigos, seu amor pelo esporte e, quem sabe, uma nova paixão por alguém que despertou nele um sentimento diferente de tudo o que já sentiu. No início, fazer amizade com as Raposas era uma péssima ideia; beijar uma, então, ultrapassava o limite do impensável. Mas Neil conseguirá resistir a essa jogada nada ensaiada pelo seu coração?\n\nA eletrizante trilogia Tudo Pelo Jogo presenteou o leitor com um grupo de personagens intrigantes e complexos, e este último volume encerra uma história sobre resiliência e amizade, sobre a família que se escolhe e os dramas da vida, repleto das emocionantes jogadas de Exy, de ação e de reviravoltas.",
+      "avaliacao": 5,
+      "lido": true
+    }
+  ]
+}
