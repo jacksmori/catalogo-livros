@@ -161,9 +161,16 @@ npm run build
 
 Os arquivos otimizados serão gerados na pasta `dist/`.
 
+## Vídeo de Demonstração
+
+[[Link do vídeo demonstrativo no Google Drive](https://drive.google.com/drive/folders/1m1uyn6zWUGlZRyBojf1uLAGmKs9x3Om8?usp=drive_link)]
+
+*Duração: 04:04*
+*Conteúdo: Demonstração de todas as funcionalidades CRUD*
+
 ## Autor
 
-**[Jackson Moriente]**
+**[Seu Nome]**
 - GitHub: [@jacksmori](https://github.com/jacksmori)
 - Email: morientejackson15@gmail.com
 
